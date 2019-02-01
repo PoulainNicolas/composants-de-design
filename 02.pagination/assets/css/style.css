@@ -1,0 +1,55 @@
+.container{
+    width: 100%;
+    height: 80px;
+    background-color: #e5e5e5;
+    display: flex;
+    
+
+}
+
+ul{
+    width: 100%;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 20px;
+    margin-left: 20px;
+
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    background-color: #3b444f;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 9px;
+}
+
+.premier-bouton{
+    background-color: #e5e5e5 ;
+    color: black;
+}
+
+.blue{
+    background-color: #129fea ;
+}
+
+.fleche{
+    padding-left: 70px;
+    padding-right: 70px;
+}
+
+.points{
+    background-color: #e5e5e5 ;
+    color: black;
+
+
+}
+
+i{
+    color: white;
+}
